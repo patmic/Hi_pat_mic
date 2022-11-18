@@ -7,7 +7,7 @@ primer programa en C
 #include <stdio.h>
 int main()
 {
-	printf("Hello World!\n");
+	printf("Hello pat_mic!\n");
 	return (0);
 }
 ```
